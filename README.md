@@ -1,2 +1,3 @@
 # odin-recipes
-Made first project using HTML
+Made first project using HTML 
+Added CSS properties
