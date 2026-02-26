@@ -1,0 +1,30 @@
+.title,
+.description,
+.steps,
+.ingredients,
+.nutrition{
+    /* background-color: #FFD8DF; */
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+    color: #FF0087;
+    
+}
+
+.recipe-book{
+    color:#FF0087;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #00F7FF;
+}
+
+.recipe-list{
+    color: #FF0087;
+}
+
+.homepage,
+.image{
+    text-align: center;
+}
