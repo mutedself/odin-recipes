@@ -1,10 +1,52 @@
 .homepage{
-    background-color: rgba(246, 110, 110, 0.947);
+    background-color: rgba(246, 110, 173, 0.83);
     border: 2px solid black;
     padding: 10px 10px 15px 10px;
     max-width: 70px;
-    margin-top: -12px;
-    margin-left: -12px;
-    border-bottom-right-radius: 30px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 2px;
+    border-radius: 30px;
 }
 
+body{
+    background-color: rgba(91, 235, 238, 0.538);
+    font-family: 'Times New Roman', Times, serif;
+    max-width:900px;
+    min-width: 500px;
+    margin: 0 auto;
+}
+
+
+a{
+    color: rgb(0, 0, 0);
+}
+
+.title{
+    background-color: rgba(141, 212, 252, 0.744);
+    border: 2px solid black;
+    padding: 10px 10px 15px 10px;
+    max-width: 600px;
+    margin: 50px;
+}
+
+.recipe-book{
+    background-color: rgb(99, 245, 167);
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    outline: 2px solid black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.recipe-list{
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: -21px;
+    padding: 20px;
+}
